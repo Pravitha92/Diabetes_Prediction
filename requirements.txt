@@ -67,7 +67,6 @@ filelock==3.4.2
 flake8==3.7.9
 flasgger==0.9.5
 Flask==1.1.1
-Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1609957731919/work
 flatbuffers==2.0
 fonttools==4.28.5
 fsspec==0.6.2
@@ -91,7 +90,6 @@ idna==2.8
 imageio==2.6.1
 imagesize==1.2.0
 importlib-metadata==4.10.0
-incremental @ file:///tmp/build/80754af9/incremental_1636629750599/work
 intervaltree==3.0.2
 ipykernel==5.1.4
 ipython==7.12.0
